@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm melo</h1>
 <h3 align="center">A developer interested in understanding domains and designing fitting solutions.</h3>
 
-- 🔭 I’m currently working on [Meisterplan.](https://meisterplan.com)
+- 🔭 I’m currently working on [sevdes.](/https://sevdesk.de/)
 
-- 🌱 I’m currently learning **Kotlin Notebooks and Kotlin dataframe.**
+- 🌱 I’m currently learning about **E-Invoice.**
 
 - 💬 Ask me about **Kotlin, Spring Boot, GraphQL and Cloud Native.**
 
